@@ -1,0 +1,7 @@
+Problem Statement
+Urban areas in the United States are experiencing rising crime rates and increasingly complex crime patterns. Law enforcement agencies face challenges in predicting when and where crimes are likely to occur, which hinders their ability to allocate resources efficiently and respond proactively.
+
+The objective of this project is to develop a predictive time series model that estimates the number of crime incidents on a monthly, daily, and hourly basis using historical FBI crime data. This model will analyze temporal and spatial patterns in crime data—including crime types, timestamps, and geographic information—to help identify high-risk areas and time periods.
+
+By forecasting crime trends accurately, this solution aims to support law enforcement and community leaders in improving public safety, optimizing patrol strategies, and guiding data-driven urban planning and policy decisions.
+
